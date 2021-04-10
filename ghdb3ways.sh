@@ -1,7 +1,7 @@
 #!/bin/bash
 if [ "$1" == "" ]
 then
-	echo "########### LIL DIX - GHDB SCRIPT ###########"
+	echo "########### LIL DIX - GHDB3WAYS ###########"
 	echo "- - - - - -  - - -  - - - - - - - - - - - - -"
 	echo "Example: $0 target.com"
 	echo "- - - - - -  - - -  - - - - - - - - - - - - -"
