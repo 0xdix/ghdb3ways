@@ -8,7 +8,7 @@
 
 <p align="center">
  
-   <img alt="License" src="https://img.shields.io/github/license/lildix/ghdb3ways">
+   <img alt="License" src="https://img.shields.io/github/license/0xdix/ghdb3ways">
 
 </p>
 
@@ -22,7 +22,7 @@
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:lildix/ghdb3ways.git
+$ git clone git@github.com:0xdix/ghdb3ways.git
 
 # Access the script folder in your terminal
 $ cd ghdb3ways
@@ -38,4 +38,4 @@ $ ./ghdb3ways
 
 This project is under the license [MIT](./LICENSE).
 
-Made by Harley Araujo (lildix)
+Made by Harley Araujo (0xdix)
